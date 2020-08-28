@@ -6,7 +6,7 @@ namespace ParsingInput
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Today we will learn about parsing data.");
         }
     }
 }
