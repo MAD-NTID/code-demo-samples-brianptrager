@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.exe
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.deps.json
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.runtimeconfig.json
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.dll
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\bin\Debug\netcoreapp3.1\ParsingInput180.pdb
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.dll
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.pdb
+C:\Users\bptnbs\source\repos\ParsingInput180\ParsingInput180\obj\Debug\netcoreapp3.1\ParsingInput180.genruntimeconfig.cache

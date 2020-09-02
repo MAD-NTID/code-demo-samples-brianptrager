@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\bptnbs\source\repos\BasicVariables\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache

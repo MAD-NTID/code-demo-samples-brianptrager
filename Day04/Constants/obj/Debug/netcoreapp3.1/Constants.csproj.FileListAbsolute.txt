@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.exe
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.deps.json
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.dll
+C:\Users\bptnbs\source\repos\Day04\Constants\bin\Debug\netcoreapp3.1\Constants.pdb
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.dll
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.pdb
+C:\Users\bptnbs\source\repos\Day04\Constants\obj\Debug\netcoreapp3.1\Constants.genruntimeconfig.cache

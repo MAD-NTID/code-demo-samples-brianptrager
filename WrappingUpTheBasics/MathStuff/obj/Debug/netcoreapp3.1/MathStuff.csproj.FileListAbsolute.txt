@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.exe
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.deps.json
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.runtimeconfig.json
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.dll
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\bin\Debug\netcoreapp3.1\MathStuff.pdb
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.dll
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.pdb
+C:\Users\bptnbs\source\repos\WrappingUpTheBasics\MathStuff\obj\Debug\netcoreapp3.1\MathStuff.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.exe
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.deps.json
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.dll
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\bin\Debug\netcoreapp3.1\ConsoleInput.pdb
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.dll
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.pdb
+C:\Users\bptnbs\source\repos\Day04\ConsoleInput\obj\Debug\netcoreapp3.1\ConsoleInput.genruntimeconfig.cache
