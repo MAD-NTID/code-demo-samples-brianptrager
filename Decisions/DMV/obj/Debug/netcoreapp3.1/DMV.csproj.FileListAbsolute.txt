@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.exe
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.deps.json
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.dll
+C:\Users\bptnbs\source\repos\Decisions\DMV\bin\Debug\netcoreapp3.1\DMV.pdb
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.dll
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.pdb
+C:\Users\bptnbs\source\repos\Decisions\DMV\obj\Debug\netcoreapp3.1\DMV.genruntimeconfig.cache

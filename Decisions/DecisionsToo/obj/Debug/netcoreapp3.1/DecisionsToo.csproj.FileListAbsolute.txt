@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.exe
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.deps.json
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.dll
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\bin\Debug\netcoreapp3.1\DecisionsToo.pdb
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.dll
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.pdb
+C:\Users\bptnbs\source\repos\Decisions\DecisionsToo\obj\Debug\netcoreapp3.1\DecisionsToo.genruntimeconfig.cache
