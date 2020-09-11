@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\bin\Debug\netcoreapp3.1\DebuggingCode.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DebuggingCode\DebuggingCode\obj\Debug\netcoreapp3.1\DebuggingCode.genruntimeconfig.cache
