@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.exe
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.deps.json
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.dll
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.pdb
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.dll
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.pdb
+C:\Users\bptnbs\source\repos\MockPracticalExam1\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.genruntimeconfig.cache

@@ -100,13 +100,13 @@ namespace DebuggingCode
 
             switch (num1)
             {
-                case 1:
+                case "1":
                     Console.WriteLine("It is 1!");
                     break;
-                case 2:
+                case "2":
                     Console.WriteLine("It is 2!");
                     break;
-                case 3:
+                case "3":
                     Console.WriteLine("It is 3!");
                     break;
             }
