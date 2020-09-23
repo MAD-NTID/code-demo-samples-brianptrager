@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\bin\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\ForLoops\obj\Debug\netcoreapp3.1\ForLoops.genruntimeconfig.cache
