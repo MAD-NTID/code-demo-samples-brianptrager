@@ -11,3 +11,16 @@ C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForL
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.dll
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.pdb
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Exam 1\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\bin\Debug\netcoreapp3.1\LoopsWithArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LoopsWithArrays\obj\Debug\netcoreapp3.1\LoopsWithArrays.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
       "projectName": "LoopsWithArrays",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\LoopsWithArrays\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

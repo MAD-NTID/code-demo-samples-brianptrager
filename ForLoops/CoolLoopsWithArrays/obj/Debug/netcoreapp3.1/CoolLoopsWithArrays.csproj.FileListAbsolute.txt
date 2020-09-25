@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\bin\Debug\netcoreapp3.1\CoolLoopsWithArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\CoolLoopsWithArrays\obj\Debug\netcoreapp3.1\CoolLoopsWithArrays.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\bin\Debug\netcoreapp3.1\LuckyNumberArray.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\ForLoops\LuckyNumberArray\obj\Debug\netcoreapp3.1\LuckyNumberArray.genruntimeconfig.cache

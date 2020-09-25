@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{38B80750-943B-4C0B-A225-2B3B2E833048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoops", "ForLoops\ForLoops.csproj", "{38B80750-943B-4C0B-A225-2B3B2E833048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsWithArrays", "LoopsWithArrays\LoopsWithArrays.csproj", "{97288BA8-E59A-4B3B-8736-0413510CFB26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopsWithArrays", "LoopsWithArrays\LoopsWithArrays.csproj", "{97288BA8-E59A-4B3B-8736-0413510CFB26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolLoopsWithArrays", "CoolLoopsWithArrays\CoolLoopsWithArrays.csproj", "{FD2AE63D-95CE-43DB-810D-EDB238BAB40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyNumberArray", "LuckyNumberArray\LuckyNumberArray.csproj", "{75F58501-8865-4CA6-A31A-4608939245D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{97288BA8-E59A-4B3B-8736-0413510CFB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97288BA8-E59A-4B3B-8736-0413510CFB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97288BA8-E59A-4B3B-8736-0413510CFB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2AE63D-95CE-43DB-810D-EDB238BAB40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2AE63D-95CE-43DB-810D-EDB238BAB40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2AE63D-95CE-43DB-810D-EDB238BAB40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2AE63D-95CE-43DB-810D-EDB238BAB40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F58501-8865-4CA6-A31A-4608939245D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F58501-8865-4CA6-A31A-4608939245D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F58501-8865-4CA6-A31A-4608939245D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F58501-8865-4CA6-A31A-4608939245D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

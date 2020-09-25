@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\ForLoops\\ForLoops.csproj": {}
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\ForLoops\\ForLoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\ForLoops\\ForLoops.csproj": {
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\ForLoops\\ForLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\ForLoops\\ForLoops.csproj",
+        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\ForLoops\\ForLoops.csproj",
         "projectName": "ForLoops",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\ForLoops\\ForLoops.csproj",
+        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\ForLoops\\ForLoops.csproj",
         "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Exam 1\\ForLoops\\ForLoops\\obj\\",
+        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\ForLoops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

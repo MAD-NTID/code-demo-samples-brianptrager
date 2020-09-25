@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj": {}
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LuckyNumberArray\\LuckyNumberArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj": {
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LuckyNumberArray\\LuckyNumberArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
-        "projectName": "LoopsWithArrays",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\LoopsWithArrays.csproj",
+        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LuckyNumberArray\\LuckyNumberArray.csproj",
+        "projectName": "LuckyNumberArray",
+        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LuckyNumberArray\\LuckyNumberArray.csproj",
         "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LoopsWithArrays\\obj\\",
+        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\ForLoops\\LuckyNumberArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
