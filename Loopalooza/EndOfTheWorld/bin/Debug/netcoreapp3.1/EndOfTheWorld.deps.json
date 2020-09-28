@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EndOfTheWorld/1.0.0": {
+        "dependencies": {
+          "EcoCore": "7.0.0.12533"
+        },
+        "runtime": {
+          "EndOfTheWorld.dll": {}
+        }
+      },
+      "EcoCore/7.0.0.12533": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.0.0.12533",
+            "fileVersion": "7.0.0.12533"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.0.0.12533",
+            "fileVersion": "7.0.0.12533"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.0.0.12533",
+            "fileVersion": "7.0.0.12533"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EndOfTheWorld/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcoCore/7.0.0.12533": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j22wT9zGv32mUAPYz7XFKKS0oA0dGQuhIm4q8W83SiFZ75WgYHjpsm406hAKd/SgDdMwKqPis70PxNlT5CZX6Q==",
+      "path": "ecocore/7.0.0.12533",
+      "hashPath": "ecocore.7.0.0.12533.nupkg.sha512"
+    }
+  }
+}

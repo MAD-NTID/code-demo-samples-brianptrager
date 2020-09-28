@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.exe
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.deps.json
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.dll
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\bin\Debug\netcoreapp3.1\SumOfAllNumbers.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.dll
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\SumOfAllNumbers\obj\Debug\netcoreapp3.1\SumOfAllNumbers.genruntimeconfig.cache

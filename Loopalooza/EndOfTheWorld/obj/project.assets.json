@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EcoCore/7.0.0.12533": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Eco.Handles.dll": {},
+          "lib/net40/Eco.Interfaces.dll": {},
+          "lib/net40/Eco.LinqExtender.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {},
+          "lib/net40/Eco.Interfaces.dll": {},
+          "lib/net40/Eco.LinqExtender.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcoCore/7.0.0.12533": {
+      "sha512": "j22wT9zGv32mUAPYz7XFKKS0oA0dGQuhIm4q8W83SiFZ75WgYHjpsm406hAKd/SgDdMwKqPis70PxNlT5CZX6Q==",
+      "type": "package",
+      "path": "ecocore/7.0.0.12533",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EcoCore.nuspec.org",
+        "ecocore.7.0.0.12533.nupkg.sha512",
+        "ecocore.nuspec",
+        "lib/Unity-Full-v35/Eco.Handles.MonoDevelop.dll",
+        "lib/Unity-Full-v35/Eco.Interfaces.MonoDevelop.dll",
+        "lib/Unity-Full-v35/Eco.LinqExtender.MonoDevelop.dll",
+        "lib/net40/Eco.Handles.dll",
+        "lib/net40/Eco.Interfaces.dll",
+        "lib/net40/Eco.LinqExtender.dll",
+        "lib/portable-windows8+net45/Eco.Handles.PortableCL.dll",
+        "lib/portable-windows8+net45/Eco.Interfaces.PortableCL.dll",
+        "lib/portable-windows8+net45/Eco.Linq.PortableCL.dll",
+        "lib/sl5/Eco.Handles.SL.dll",
+        "lib/sl5/Eco.Interfaces.SL.dll",
+        "lib/sl5/Eco.Linq.SL.dll",
+        "lib/sl5/Eco.Silverlight.SL.dll",
+        "lib/sl5/WECPOFLogicSL.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EcoCore >= 7.0.0.12533"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bptnbs\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\Loopalooza\\EndOfTheWorld\\EndOfTheWorld.csproj",
+      "projectName": "EndOfTheWorld",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\Loopalooza\\EndOfTheWorld\\EndOfTheWorld.csproj",
+      "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\Loopalooza\\EndOfTheWorld\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bptnbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "EcoCore": {
+            "target": "Package",
+            "version": "[7.0.0.12533, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EcoCore 7.0.0.12533' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.exe
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.deps.json
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.dll
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\EndOfTheWorld.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.dll
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\Eco.Handles.dll
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\Eco.Interfaces.dll
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\bin\Debug\netcoreapp3.1\Eco.LinqExtender.dll
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\EndOfTheWorld\obj\Debug\netcoreapp3.1\EndOfTheWorld.csproj.CopyComplete

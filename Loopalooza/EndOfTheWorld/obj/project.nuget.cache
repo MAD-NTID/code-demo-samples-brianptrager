@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "YkwCXUvOm+pCU4865S8T9fX6Gnr8CZQM3WmZCPiAF8sj8w8QO2oWKQ59cjgSbnHohWy9oI7N8K12uf8UgM4Zjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bptnbs\\source\\repos\\Loopalooza\\EndOfTheWorld\\EndOfTheWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bptnbs\\.nuget\\packages\\ecocore\\7.0.0.12533\\ecocore.7.0.0.12533.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EcoCore 7.0.0.12533' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EcoCore",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

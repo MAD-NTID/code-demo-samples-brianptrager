@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.exe
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.deps.json
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.dll
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\bin\Debug\netcoreapp3.1\Loopalooza.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.dll
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.pdb
+C:\Users\bptnbs\source\repos\Loopalooza\Loopalooza\obj\Debug\netcoreapp3.1\Loopalooza.genruntimeconfig.cache
