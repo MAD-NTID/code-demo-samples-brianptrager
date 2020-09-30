@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods", "SimpleMethods\SimpleMethods.csproj", "{9B69F40B-3A08-466F-90C9-9575AC55A028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWorld", "ReverseWorld\ReverseWorld.csproj", "{34204D93-3FE0-44DC-BD49-EECD2AAC4F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterReverseWorld", "BetterReverseWorld\BetterReverseWorld.csproj", "{5CA57B52-162B-43D3-84FC-E801D4F2B0BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B69F40B-3A08-466F-90C9-9575AC55A028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B69F40B-3A08-466F-90C9-9575AC55A028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B69F40B-3A08-466F-90C9-9575AC55A028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B69F40B-3A08-466F-90C9-9575AC55A028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34204D93-3FE0-44DC-BD49-EECD2AAC4F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34204D93-3FE0-44DC-BD49-EECD2AAC4F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34204D93-3FE0-44DC-BD49-EECD2AAC4F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34204D93-3FE0-44DC-BD49-EECD2AAC4F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA57B52-162B-43D3-84FC-E801D4F2B0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA57B52-162B-43D3-84FC-E801D4F2B0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA57B52-162B-43D3-84FC-E801D4F2B0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA57B52-162B-43D3-84FC-E801D4F2B0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD794855-8D12-4F96-9970-D39A6A48F44A}
+	EndGlobalSection
+EndGlobal

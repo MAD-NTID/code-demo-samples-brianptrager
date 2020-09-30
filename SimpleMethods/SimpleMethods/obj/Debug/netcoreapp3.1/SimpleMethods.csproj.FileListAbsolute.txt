@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.exe
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.deps.json
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.runtimeconfig.json
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\bin\Debug\netcoreapp3.1\SimpleMethods.pdb
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.dll
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.pdb
+C:\Users\bptnbs\source\repos\SimpleMethods\SimpleMethods\obj\Debug\netcoreapp3.1\SimpleMethods.genruntimeconfig.cache

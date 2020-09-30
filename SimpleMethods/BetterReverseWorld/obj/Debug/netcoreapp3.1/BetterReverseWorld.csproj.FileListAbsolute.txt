@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.exe
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.deps.json
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.runtimeconfig.json
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.dll
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\bin\Debug\netcoreapp3.1\BetterReverseWorld.pdb
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.dll
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.pdb
+C:\Users\bptnbs\source\repos\SimpleMethods\BetterReverseWorld\obj\Debug\netcoreapp3.1\BetterReverseWorld.genruntimeconfig.cache
