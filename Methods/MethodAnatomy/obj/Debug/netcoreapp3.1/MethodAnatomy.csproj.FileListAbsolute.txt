@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\bin\Debug\netcoreapp3.1\MethodAnatomy.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\MethodAnatomy\obj\Debug\netcoreapp3.1\MethodAnatomy.genruntimeconfig.cache

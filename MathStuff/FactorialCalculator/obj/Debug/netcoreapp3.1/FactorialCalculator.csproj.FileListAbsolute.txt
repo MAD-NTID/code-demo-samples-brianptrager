@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\bin\Debug\netcoreapp3.1\FactorialCalculator.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\MathStuff\FactorialCalculator\obj\Debug\netcoreapp3.1\FactorialCalculator.genruntimeconfig.cache

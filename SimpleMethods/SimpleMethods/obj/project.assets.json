@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\SimpleMethods\\SimpleMethods.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\SimpleMethods\\SimpleMethods.csproj",
       "projectName": "SimpleMethods",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\SimpleMethods\\SimpleMethods.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\SimpleMethods\\SimpleMethods.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\SimpleMethods\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\SimpleMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

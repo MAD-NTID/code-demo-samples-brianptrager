@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\ReverseWorld\\ReverseWorld.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\ReverseWorld\\ReverseWorld.csproj",
       "projectName": "ReverseWorld",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\ReverseWorld\\ReverseWorld.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\ReverseWorld\\ReverseWorld.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\SimpleMethods\\ReverseWorld\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\SimpleMethods\\ReverseWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

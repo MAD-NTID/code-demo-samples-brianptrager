@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\bin\Debug\netcoreapp3.1\ReturningMethods.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\ReturningMethods\obj\Debug\netcoreapp3.1\ReturningMethods.csprojAssemblyReference.cache
