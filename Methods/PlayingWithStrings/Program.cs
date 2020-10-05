@@ -6,19 +6,30 @@ namespace PlayingWithStrings
     {
         static void Main(string[] args)
         {
-            String str = "animal";
-            String toFind = "a";
+            //String str = "animal";
+            //String toFind = "a";
+            Console.Write("Enter a string: ");
+            String str = Console.ReadLine();
+
+            Console.Write("Enter the character you wish to find: ");
+            String toFind = Console.ReadLine();
+
+            Console.WriteLine(SearchChar(str, toFind));
+
+        }
+
+        private static string SearchChar(string str, string toFind)
+        {
             int index = str.IndexOf(toFind);
             if (index == -1)
             {
-                Console.WriteLine($"Cannot find {toFind} in {str}");
+                return String.Format($"Cannot find {toFind} in {str}");
             }
             else
             {
-                Console.WriteLine("Found '{0}' in '{1}' at position {2}",
+                return String.Format("Found '{0}' in '{1}' at position {2}",
                                 toFind, str, index);
             }
-
         }
     }
 }

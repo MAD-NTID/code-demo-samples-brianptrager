@@ -10,3 +10,4 @@ C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\Pla
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.dll
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.pdb
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.csprojAssemblyReference.cache
