@@ -18,7 +18,10 @@ namespace ReturningMethods
 
                 //Console.WriteLine(num1);
                 //Console.WriteLine(num2);
-                long result = DoPow(num1, num2);
+                long optionalResult = DoPow(num1);
+                Console.WriteLine($"{optionalResult}");
+
+                long result = DoPow(n2: num2, n1: num1);
                 Console.WriteLine($"{result}");
 
                 if(DoPow(num1, num2, out result))
@@ -31,11 +34,16 @@ namespace ReturningMethods
                 }
 
                 Console.Write("Would you like to run the program again? (y/n): ");
-                if (!(Console.ReadLine().ToUpper() == "Y"))
+                if (!(Console.ReadLine().ToUpper()[0] == 'Y'))
                     break;
             }
         }
 
+        /// <summary>
+        /// Reads a string and converts to an integer
+        /// </summary>
+        /// <param name="prompt">the string candidate to convert to an integer</param>
+        /// <returns>an integer if provided a valid string</returns>
         private static int readInt(string prompt)
         {
             Console.Write(prompt);
@@ -43,7 +51,7 @@ namespace ReturningMethods
             return num;
         }
 
-        private static long DoPow(int n1, int n2)
+        private static long DoPow(int n1, int n2 = 1)
         {
             long result = 1;
             for(int i = 0; i < n2; i++)

@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\bin\Debug\netcoreapp3.1\PlayingWithStrings.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Methods\PlayingWithStrings\obj\Debug\netcoreapp3.1\PlayingWithStrings.genruntimeconfig.cache
