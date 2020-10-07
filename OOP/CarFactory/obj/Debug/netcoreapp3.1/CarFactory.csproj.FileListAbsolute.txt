@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.exe
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.deps.json
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.runtimeconfig.json
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.dll
+C:\Users\bptnbs\source\repos\OOP\CarFactory\bin\Debug\netcoreapp3.1\CarFactory.pdb
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.dll
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.pdb
+C:\Users\bptnbs\source\repos\OOP\CarFactory\obj\Debug\netcoreapp3.1\CarFactory.genruntimeconfig.cache
