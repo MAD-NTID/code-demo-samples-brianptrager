@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\OOP\\CarFactory\\CarFactory.csproj": {}
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\OOP\\CarFactory\\CarFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\OOP\\CarFactory\\CarFactory.csproj": {
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\OOP\\CarFactory\\CarFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\OOP\\CarFactory\\CarFactory.csproj",
+        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\OOP\\CarFactory\\CarFactory.csproj",
         "projectName": "CarFactory",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\OOP\\CarFactory\\CarFactory.csproj",
+        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\OOP\\CarFactory\\CarFactory.csproj",
         "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\OOP\\CarFactory\\obj\\",
+        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\OOP\\CarFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
