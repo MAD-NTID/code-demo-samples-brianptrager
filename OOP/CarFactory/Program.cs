@@ -63,7 +63,16 @@ namespace CarFactory
             //Console.WriteLine($"Gas Tank Capacity: {conorCar.GasTankCapacity}");
             //Console.WriteLine($"Year: {conorCar.Year}");
 
-
+            Car emilyCar = new Car()
+            {
+                Year = 2008,
+                Make = "Nissan",
+                Model = "Altima",
+                CarType = "Sedan",
+                Color = "Red",
+                GasTankCapacity = 14.5,
+                IsRunning = true
+            };
         }
     }
 }

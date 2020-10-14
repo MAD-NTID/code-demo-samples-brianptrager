@@ -10,12 +10,22 @@ namespace CarFactory
         //Data Fields -- By default, they should be private!
         private int year;
         private string color;
-        private int gasTankCapacity;
+        private double gasTankCapacity;
         private string carType;
         private string make;
         private string model;
         private bool isRunning;
         private string[] makes = { "Ford", "Chevrolet", "Dodge", "Honda", "Toyota", "Subaru", "Nissan" };
+
+        //type in 'propfull' to activate code snippet to create data field and property
+        private int numDoors;
+
+        public int NumDoors
+        {
+            get { return numDoors; }
+            set { numDoors = value; }
+        }
+
 
         //Properties
         public int Year
@@ -33,7 +43,14 @@ namespace CarFactory
             }
         }
         public string Color { get; set; }
-        public int GasTankCapacity { get; set; }
+        public double GasTankCapacity { get
+            {
+                return gasTankCapacity;
+            }
+            set { 
+                gasTankCapacity = value; 
+            } 
+        }
         public string CarType { get; set; }
         public string Make {
             get
