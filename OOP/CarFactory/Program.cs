@@ -11,10 +11,10 @@ namespace CarFactory
             
             myCar.Color = "Red";
             myCar.CarType = "SUV";
-            myCar.Make = "Ford";
+            myCar.Make = "Fordly";
             myCar.Model = "Explorer";
             myCar.GasTankCapacity = 18;
-            myCar.Year = 2018;
+            myCar.Year = 100;
             myCar.IsRunning = true;
             myCar.Drive(250);
             Console.WriteLine("Data for the first car object");
