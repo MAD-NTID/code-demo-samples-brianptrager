@@ -41,10 +41,10 @@ namespace CarFactory
                         int choice = int.Parse(Console.ReadLine());
                         //choice = choice - 1;
                         //Array.Clear(cars, --choice, 1);
-                        for (int j = choice - 1; j < cars.Length - 1; j++)
-                        {
-                            cars[j] = cars[j + 1];
-                        }
+                        //for (int j = choice - 1; j < cars.Length - 1; j++)
+                        //{
+                        //    cars[j] = cars[j + 1];
+                        //}
                         //Shift all car objects over by one based on choice
                         for(int k = choice; k < cars.Length; k++)
                         {
