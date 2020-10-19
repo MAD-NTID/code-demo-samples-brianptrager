@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\bin\Debug\netcoreapp3.1\DT_And_Enums.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\DT_And_Enums\DT_And_Enums\obj\Debug\netcoreapp3.1\DT_And_Enums.genruntimeconfig.cache

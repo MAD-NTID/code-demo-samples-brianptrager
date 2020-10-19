@@ -5,6 +5,15 @@ using System.Text;
 
 namespace CarFactory
 {
+    enum Manufacturer
+    {
+        Ford,
+        Chevrolet,
+        Dodge,
+        Nissan,
+        Honda,
+        Toyota
+    }
     class Car
     {
         //Data Fields -- By default, they should be private!
