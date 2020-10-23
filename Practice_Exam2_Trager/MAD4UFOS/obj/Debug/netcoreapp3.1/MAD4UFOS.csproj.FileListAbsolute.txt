@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\Practice_Exam2_Trager\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.genruntimeconfig.cache
