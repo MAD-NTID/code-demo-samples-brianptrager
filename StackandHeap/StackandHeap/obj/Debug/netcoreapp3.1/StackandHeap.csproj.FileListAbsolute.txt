@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.exe
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.deps.json
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.runtimeconfig.json
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.dll
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\bin\Debug\netcoreapp3.1\StackandHeap.pdb
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.dll
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.pdb
+C:\Users\bptnbs\source\repos\StackandHeap\StackandHeap\obj\Debug\netcoreapp3.1\StackandHeap.genruntimeconfig.cache
