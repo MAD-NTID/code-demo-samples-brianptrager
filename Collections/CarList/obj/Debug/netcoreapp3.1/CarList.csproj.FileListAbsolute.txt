@@ -1,0 +1,12 @@
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.exe
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.deps.json
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.runtimeconfig.json
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.dll
+C:\Users\bptnbs\source\repos\Collections\CarList\bin\Debug\netcoreapp3.1\CarList.pdb
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.dll
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.pdb
+C:\Users\bptnbs\source\repos\Collections\CarList\obj\Debug\netcoreapp3.1\CarList.genruntimeconfig.cache
