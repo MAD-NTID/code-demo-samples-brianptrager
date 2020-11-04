@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\source\\repos\\Collections\\Collections\\Collections.csproj": {}
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\Collections\\Collections.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\source\\repos\\Collections\\Collections\\Collections.csproj": {
+    "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\Collections\\Collections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\Collections\\Collections\\Collections.csproj",
+        "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\Collections\\Collections.csproj",
         "projectName": "Collections",
-        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\Collections\\Collections\\Collections.csproj",
+        "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\Collections\\Collections.csproj",
         "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\Collections\\Collections\\obj\\",
+        "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\Collections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

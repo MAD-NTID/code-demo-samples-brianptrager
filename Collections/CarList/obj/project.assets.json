@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\Collections\\CarList\\CarList.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\CarList\\CarList.csproj",
       "projectName": "CarList",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\Collections\\CarList\\CarList.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\CarList\\CarList.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\Collections\\CarList\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\Collections\\CarList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
