@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace CarList
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
@@ -35,18 +35,20 @@ namespace CarList
                 Console.WriteLine(c);
             }
             //parts.Remove(new Part() { PartId = 1534, PartName = "cogs" });
-            //Console.WriteLine(carList.Remove(new Car() { Make = "Ford", Year = 2014, Model = "Focus" }));
+            Console.WriteLine(carList.Remove(new Car() { Make = "Honda" }));
             Console.WriteLine("=========AFTER REMOVING A CAR BY VALUE=========");
-            for(int i = 0; i < carList.Count; i++)
+            foreach (Car c in carList)
             {
-                if (carList[i].Make == "Nissan")
-                    carList.RemoveAt(i);
-                Console.WriteLine(carList[i]);
+                Console.WriteLine(c);
             }
+            //for(int i = 0; i < carList.Count; i++)
+            //{
+            //    if (carList[i].Make == "Nissan")
+            //        carList.RemoveAt(i);
+            //    Console.WriteLine(carList[i]);
+            //}
 
-            CarComparer cc = new CarComparer();
-
-            carList.Sort(cc);
+            carList.Sort(CompareCars);
             Console.WriteLine("=========AFTER SORTING THE CAR LIST=========");
             foreach (Car c in carList)
             {
@@ -61,6 +63,11 @@ namespace CarList
                 Console.WriteLine(c);
             }
         }//End Main
+
+        public static int CompareCars( Car x, Car y)
+        {
+            return x.Year.CompareTo(y.Year);
+        }
     }
 
     public class Car
@@ -75,11 +82,4 @@ namespace CarList
         }
     }
 
-    class CarComparer : IComparer<Car>
-    {
-        public int Compare(Car x, Car y)
-        {
-            return x.Year.CompareTo(y.Year);
-        }
-    }
 }
