@@ -26,6 +26,9 @@ namespace CarFactory
         private bool isRunning;
         private string[] makes = { "Ford", "Chevrolet", "Dodge", "Honda", "Toyota", "Subaru", "Nissan" };
 
+        private Engine engine;
+
+
         //type in 'propfull' to activate code snippet to create data field and property
         private int numDoors;
 
@@ -81,6 +84,7 @@ namespace CarFactory
         }
         public string Model { get; set; }
         public bool IsRunning { get; set; }
+        public Engine Engine { get { return engine; } set { engine = value; } }
 
         public void Drive(int miles)
         {
@@ -105,10 +109,11 @@ namespace CarFactory
             CarType = "N/A";
             Color = "Black";
             IsRunning = false;
+            Engine = null;
         }
 
         //Parameterized Constructor
-        public Car(int year, string color, int gasTankCapacity, string make, string model, string carType)
+        public Car(int year, string color, int gasTankCapacity, string make, string model, string carType, Engine engine)
         {
             Year = year;
             Color = color;
@@ -117,6 +122,7 @@ namespace CarFactory
             Model = model;
             CarType = carType;
             IsRunning = true;
+            Engine = engine;
         }
 
         
@@ -124,7 +130,7 @@ namespace CarFactory
         {
             return String.Format($"Year: {Year}\nMake: {Make}\nModel: {Model}\n" +
                 $"Car Type: {CarType}\nColor: {Color}\n" +
-                $"Gas Tank Capacity: {GasTankCapacity}");
+                $"Gas Tank Capacity: {GasTankCapacity}\nEngine: {Engine}");
         }
     }
 }
