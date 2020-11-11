@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.exe
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.deps.json
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.runtimeconfig.json
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.dll
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\bin\Debug\netcoreapp3.1\HangProfessor.pdb
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.dll
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.pdb
+C:\Users\bptnbs\source\repos\HangProfessor\HangProfessor\obj\Debug\netcoreapp3.1\HangProfessor.genruntimeconfig.cache
