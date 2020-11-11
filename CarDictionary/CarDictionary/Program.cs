@@ -9,11 +9,21 @@ namespace CarDictionary
         static void Main(string[] args)
         {
             string menu = String.Format($"1. Build a car\n2. Add an engine\n3. Remove a car\n" +
-                $"4. List all cars\n5. List all engines\n6. Exit\n\nEnter your option: ");
+                $"4. List all cars\n5. List all engines\n6. Search for car\n7. Remove car from list (sold)\n8. Search for car (sold)\n9. Exit\n\nEnter your option: ");
 
             //List<Car> carList = new List<Car>();
             Dictionary<string, Car> carDict = new Dictionary<string, Car>();
-            
+            Dictionary<string, Car> soldDict = new Dictionary<string, Car>();
+
+            //Build engines
+            engineList.Add(new Engine() { EngineSize = 2.0, FuelType = "Gas", HorsePower = 180, NumCylinders = 4 });
+            engineList.Add(new Engine() { EngineSize = 3.5, FuelType = "Gas", HorsePower = 290, NumCylinders = 6 });
+            engineList.Add(new Engine() { EngineSize = 6.7, FuelType = "Diesel", HorsePower = 440, NumCylinders = 8 });
+
+            //Build cars
+            carDict.Add("1000FB", new Car() { CarType = "sedan", Color = "green", Year = 2014, Make = "Ford", Model = "Focus", GasTankCapacity = 14, NumDoors = 4, Engine = engineList[0] });
+            carDict.Add("2020CV", new Car() { CarType = "sedan", Color = "red", Year = 2012, Make = "Ford", Model = "Fusion", GasTankCapacity = 18, NumDoors = 4, Engine = engineList[1] });
+            carDict.Add("2050FD", new Car() { CarType = "truck", Color = "black", Year = 2017, Make = "Ford", Model = "F-250", GasTankCapacity = 34, NumDoors = 4, Engine = engineList[2] });
 
             while (true)
             {
@@ -86,7 +96,37 @@ namespace CarDictionary
                         DisplayEngines();
                         break;
 
-                    case 6: //Exit the program - so easy a cave man can do this!  Sponsored by GEICO
+                    case 6: //Does it have a key specified by the user?
+                        Console.Write("Specify the key to search: ");
+                        string key = Console.ReadLine();
+                        if(carDict.ContainsKey(key))
+                            Console.WriteLine(carDict[key]);
+                        else
+                            Console.WriteLine($"The stock number {key} does not exist.");
+                        Console.WriteLine();
+                        break;
+
+                    case 7:
+                        Console.Write("Specify the car that was sold: ");
+                        string transferKey = Console.ReadLine();
+                        if (carDict.Remove(transferKey, out Car car))
+                            soldDict.Add(transferKey, car);
+                        else
+                            Console.WriteLine($"Cannot perform operation: The stock number {transferKey} does not exist in the list.");
+                        Console.WriteLine();
+                        break;
+
+                    case 8: //Does it have a key specified by the user?
+                        Console.Write("Specify the key to search: ");
+                        string soldKey = Console.ReadLine();
+                        if (soldDict.ContainsKey(soldKey))
+                            Console.WriteLine(soldDict[soldKey]);
+                        else
+                            Console.WriteLine($"The stock number {soldKey} does not exist.");
+                        Console.WriteLine();
+                        break;
+
+                    case 9: //Exit the program - so easy a cave man can do this!  Sponsored by GEICO
                         Environment.Exit(0);
                         break;
 
