@@ -8,12 +8,20 @@ namespace FileIO
         static void Main(string[] args)
         {
             string str = null;
-            using (StreamReader reader = new StreamReader("pf1.txt"))
+            string path = "pf2.txt";
+            if (File.Exists(path))
             {
-                while ((str = reader.ReadLine()) != null)
+                using (StreamReader reader = new StreamReader(path))
                 {
-                    Console.WriteLine(str);
+                    while ((str = reader.ReadLine()) != null)
+                    {
+                        Console.WriteLine(str);
+                    }
                 }
+            }
+            else
+            {
+                Console.WriteLine("File not found");
             }
         }
     }

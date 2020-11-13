@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\FileIO\\FileIO\\FileIO.csproj",
+      "projectUniqueName": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\FileIO\\FileIO\\FileIO.csproj",
       "projectName": "FileIO",
-      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\FileIO\\FileIO\\FileIO.csproj",
+      "projectPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\FileIO\\FileIO\\FileIO.csproj",
       "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\FileIO\\FileIO\\obj\\",
+      "outputPath": "C:\\Users\\bptnbs\\source\\repos\\MAD-NTID\\code-demo-samples-brianptrager\\FileIO\\FileIO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
