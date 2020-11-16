@@ -1,0 +1,13 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\CSVFilesandArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\obj\Debug\netcoreapp3.1\CSVFilesandArrays.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\CSVFilesandArrays\bin\Debug\netcoreapp3.1\temperaturesCSV.txt
