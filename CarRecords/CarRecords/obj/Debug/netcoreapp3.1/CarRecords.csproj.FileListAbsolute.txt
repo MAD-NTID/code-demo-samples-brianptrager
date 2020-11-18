@@ -1,0 +1,14 @@
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\carRecords.txt
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.exe
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.deps.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.runtimeconfig.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.runtimeconfig.dev.json
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\bin\Debug\netcoreapp3.1\CarRecords.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.csprojAssemblyReference.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.AssemblyInfoInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.AssemblyInfo.cs
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.dll
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.pdb
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\CarRecords\CarRecords\obj\Debug\netcoreapp3.1\CarRecords.genruntimeconfig.cache
