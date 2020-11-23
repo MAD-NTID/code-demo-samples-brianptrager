@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bptnbs\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj": {}
+    "C:\\Users\\brian.000\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bptnbs\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj": {
+    "C:\\Users\\brian.000\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bptnbs\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj",
+        "projectUniqueName": "C:\\Users\\brian.000\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj",
         "projectName": "DiningCommonsStats",
-        "projectPath": "C:\\Users\\bptnbs\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj",
-        "packagesPath": "C:\\Users\\bptnbs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bptnbs\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\obj\\",
+        "projectPath": "C:\\Users\\brian.000\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\DiningCommonsStats.csproj",
+        "packagesPath": "C:\\Users\\brian.000\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brian.000\\Documents\\GitHub\\code-demo-samples-brianptrager\\MockPracticalExam2201\\DiningCommonsStats\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bptnbs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brian.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
