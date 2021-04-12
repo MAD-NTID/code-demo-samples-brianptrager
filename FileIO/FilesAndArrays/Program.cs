@@ -38,14 +38,33 @@ namespace FilesAndArrays
         {
             string line = null;
             int counter = 0;
-            using (StreamReader reader = new StreamReader("temperatures.txt"))
-            {
-                while ((line = reader.ReadLine()) != null)
+            //try
+            //{
+                using (StreamReader reader = new StreamReader("temperatures.txt"))
                 {
-                    temperatures[counter] = int.Parse(line);
-                    counter++;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        temperatures[counter] = int.Parse(line);
+                        counter++;
+                    }
                 }
-            }
+            //}
+            //catch(FileNotFoundException fnfe)
+            //{
+            //    Console.WriteLine(fnfe.Message);
+            //    Console.WriteLine("File not found.  Are you sure the file is there?");
+            //    Environment.Exit(0);
+            //}
+            //catch(FormatException fe)
+            //{
+            //    Console.WriteLine(fe.Message);
+            //    Console.WriteLine("It appears that data is not formatted correctly.  Check the file and make sure it contains only numbers.");
+            //    Environment.Exit(0);
+            //}
+            //catch(Exception e)
+            //{
+
+            //}
         }
 
         public static void WriteFile()

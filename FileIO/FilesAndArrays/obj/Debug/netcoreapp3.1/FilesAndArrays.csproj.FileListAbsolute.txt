@@ -1,4 +1,3 @@
-C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\bin\Debug\netcoreapp3.1\temperatures.txt
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.exe
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.deps.json
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\bin\Debug\netcoreapp3.1\FilesAndArrays.runtimeconfig.json
@@ -12,3 +11,4 @@ C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\File
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.dll
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.pdb
 C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\obj\Debug\netcoreapp3.1\FilesAndArrays.genruntimeconfig.cache
+C:\Users\bptnbs\source\repos\MAD-NTID\code-demo-samples-brianptrager\FileIO\FilesAndArrays\bin\Debug\netcoreapp3.1\temperatures.txt
