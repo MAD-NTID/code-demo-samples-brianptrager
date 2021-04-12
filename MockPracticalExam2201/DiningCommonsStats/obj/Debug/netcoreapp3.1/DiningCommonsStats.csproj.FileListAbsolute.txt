@@ -1,0 +1,13 @@
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.exe
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.deps.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.runtimeconfig.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.dll
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\bin\Debug\netcoreapp3.1\DiningCommonsStats.pdb
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.csprojAssemblyReference.cache
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.dll
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.pdb
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\DiningCommonsStats\obj\Debug\netcoreapp3.1\DiningCommonsStats.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.exe
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.deps.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.runtimeconfig.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.runtimeconfig.dev.json
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.dll
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\bin\Debug\netcoreapp3.1\MockPracticalExam2201.pdb
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\TurnerCarSales.AssemblyInfoInputs.cache
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\TurnerCarSales.AssemblyInfo.cs
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\TurnerCarSales.csproj.CoreCompileInputs.cache
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\MockPracticalExam2201.dll
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\MockPracticalExam2201.pdb
+C:\Users\bptnbs\Documents\GitHub\code-demo-samples-brianptrager\MockPracticalExam2201\MockPracticalExam2201\obj\Debug\netcoreapp3.1\TurnerCarSales.genruntimeconfig.cache
